@@ -1,0 +1,17 @@
+{
+    "controllers" : {
+        "displayName" : "Controllers"
+    },
+    "models": {
+        "displayName" : "Models"
+    },
+    "services": {
+        "displayName" : "Services"
+    },
+    "policies": {
+        "displayName" : "Policies"
+    },
+    "routes": {
+        "displayName" : "Routes"
+    }
+}

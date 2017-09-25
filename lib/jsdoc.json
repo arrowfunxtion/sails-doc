@@ -1,0 +1,11 @@
+{
+    "opts": {
+        // "template": "node_modules/docdash"
+        // "template": "docdash-category"        
+    },
+    "categoryfile": "jsdoc-category.json",
+    "plugins": [
+        "index.js",
+        "categories.js"
+    ]
+}

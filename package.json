@@ -1,0 +1,34 @@
+{
+  "name": "sails-doc",
+  "version": "0.0.1",
+  "description": "Generate documentation for sails application using jsdoc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "sails-doc": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/arrowfunxtion/sails-doc.git"
+  },
+  "keywords": [
+    "documentation",
+    "jsdoc",
+    "sails",
+    "sails-doc",
+    "sails-apidoc"
+  ],
+  "author": "Muhammad Azamuddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arrowfunxtion/sails-doc/issues"
+  },
+  "homepage": "https://github.com/arrowfunxtion/sails-doc#readme",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "commander": "^2.11.0",
+    "jsdoc": "^3.5.5"
+  }
+}
