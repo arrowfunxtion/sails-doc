@@ -1,6 +1,6 @@
 {
   "name": "sails-doc",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Generate documentation for sails application using jsdoc",
   "main": "index.js",
   "scripts": {
